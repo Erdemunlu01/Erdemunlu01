@@ -1,4 +1,4 @@
- [![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20240528150353/How-Data-Science-Works.webp)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20240528150353/How-Data-Science-Works.webp)
 <h1 align="center">Hi 👋, I'm Erdem</h1>
 <h3 align="center">Dedicated and eager lifelong learner with a statistical background. Professionally experienced in IT and Revenue Management. Deeply passionate about data science, data engineering and ETL projects.</h3>
 
