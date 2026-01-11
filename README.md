@@ -1,4 +1,4 @@
-![MasterHead](https://www.zucisystems.com/wp-content/uploads/2022/04/25-Data-Science-Tools-to-be-Used-in-2022-3.png)
+![MasterHead](https://t4.ftcdn.net/jpg/06/15/78/51/360_F_615785156_1xNJ1I2GcJ0RYmrkrquWcKXqnRA26TUI.jpg)
 <h1 align="center">Hi 👋, I'm Erdem</h1>
 <h3 align="center">Dedicated and eager lifelong learner with a statistical background. Professionally experienced in IT and Revenue Management. Deeply passionate about data science, data engineering and ETL projects.</h3>
 
